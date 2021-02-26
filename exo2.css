@@ -62,15 +62,16 @@ ul li{
 }
 
 button{
-    margin-top: 2rem;
-    width: 14rem;
-    height: 5rem;
+    
     border: none;
     border-radius: 4px;
     font-size: 1.6rem;
     color: white;
     background: black;
     cursor: pointer;
+    margin-top: 2rem;
+    width: 14rem;
+    height: 5rem;
 }
 
 label{
@@ -80,10 +81,10 @@ label{
 input{
     padding: 1rem;
     margin-bottom: 2rem;
-    border: none;
-    outline: none;
     height: 3rem;
     font-size: 1rem;
     border-bottom: 1px solid orange;
+    border: none;
+    outline: none;
 
 }
